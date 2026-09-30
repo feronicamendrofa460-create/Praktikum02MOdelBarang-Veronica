@@ -1,0 +1,2 @@
+# Praktikum02MOdelBarang-Veronica
+ModulPraktikum02Barang
